@@ -1,0 +1,10 @@
+.direnv/
+.env
+.venv/
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+requirements.txt
+secrets/*
+!secrets/*.age

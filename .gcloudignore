@@ -1,0 +1,17 @@
+.git/
+.direnv/
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+secrets/
+*.pyc
+*.nix
+nix/
+.envrc
+.cursorrules
+Makefile
+README.rst
+recipients.txt
+pyproject.toml
+uv.lock
